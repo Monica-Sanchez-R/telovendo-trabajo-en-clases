@@ -18,4 +18,4 @@ Este repositorio alberga una tienda en línea de productos para el cuidado del c
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/Monica-Sanchez-R/telovendo-trabajo-en-clases.git
+   git clone https://github.com/Monica-Sanchez-R/telovendo-trabajo-en-clases
